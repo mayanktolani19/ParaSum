@@ -9,3 +9,5 @@ ParaSum is a web application built using streamlit that performs text paraphrasi
 * Activate the virtual environment - `venv\scripts\activate`
 * Install the requirements - `pip install -r requirements.txt`
 * Run the app using - `streamlit run main.py`
+
+![ParaSum](webapp.png "This is a sample image.")
