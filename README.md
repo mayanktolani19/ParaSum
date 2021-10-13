@@ -4,8 +4,8 @@ ParaSum is a web application built using streamlit that performs text paraphrasi
 
 ## Installation
 
-* Clone the repository - git clone https://github.com/mayanktolani19/ParaSum.git
-* Create a new virtual environment - virtualenv venv
-* Activate the virtual environment - venv\scripts\activate
-* Install the requirements - pip install -r requirements.txt
-* Run the app using - streamlit run main.py
+* Clone the repository - `git clone https://github.com/mayanktolani19/ParaSum.git`
+* Create a new virtual environment - `virtualenv venv`
+* Activate the virtual environment - `venv\scripts\activate`
+* Install the requirements - `pip install -r requirements.txt`
+* Run the app using - `streamlit run main.py`
